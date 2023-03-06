@@ -1,12 +1,12 @@
-__Yuliya Shelenhouskaya__
+__YULIYA SHELENHOUSKAYA__
 
 ***
 ### Contacts:
 
-* Phone number : +375333121909
-* Location: Minsk,Belarus
-* Email : yulchik241@gmail.com
-* Github: Yuliya241
+* _Phone number_ : +375333121909
+* _Location_: Minsk,Belarus
+* _Email_: yulchik241@gmail.com
+* _Github_: Yuliya241
 
 ***
 ### About myself
@@ -39,7 +39,7 @@ I don’t have any experience in JavaScript/Front-end yet but I want to get it
 ### Education and courses
 * Belarusian National Technical University
   * Faculty of Marketing, Management and Entrepreneurship
-* RS School (“JS/FE Pre-School 2022Q4”)
+* RS School (Course "JavaScript/Front-end. Stage 0")
 
 ***
 ### Language
