@@ -21,6 +21,15 @@ I am 32 years old. I have been working in a bank for the last 10 years. But I fe
 * Git, Github
 * VS Code
 * HTML,CSS
+* JavaScript
+
+***
+### Code example
+```
+function numberToString(num) {
+  return String(num)
+}
+```
 
 ***
 ### Working experience
@@ -30,7 +39,7 @@ I don’t have any experience in JavaScript/Front-end yet but I want to get it
 ### Education and courses
 * Belarusian National Technical University
   * Faculty of Marketing, Management and Entrepreneurship
-* RS School (student of “JavaScript/Front-end. Stage 0” now)
+* RS School (“JS/FE Pre-School 2022Q4”)
 
 ***
 ### Language
